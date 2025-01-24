@@ -2,7 +2,7 @@
 
 ## my skills
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,php,linux,debian,ubuntu,mysql,docker,github,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,php,go,dart,linux,debian,ubuntu,mysql,docker,github,notion)](https://skillicons.dev)
 
 <!-- 言語の割合 -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=toma1128&layout=compact)

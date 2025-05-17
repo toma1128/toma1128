@@ -4,6 +4,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,cpp,php,go,dart,linux,debian,ubuntu,mysql,docker,github,notion)](https://skillicons.dev)
 
+<p align="left">
+  <a href="https://github.com/toma128/toma1128/">
+    <img src="https://komarev.com/ghpvc/?username=toma1128" alt="あなたのユーザー名" />
+  </a>
+  <a href="https://twitter.com/eccToma1128">
+    <img height="20" src="https://img.shields.io/twitter/follow/eccToma1128?label=Twitter&logo=twitter&style=flat" />
+  </a>
+</p>
+
 <!-- 言語の割合 -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=toma1128&layout=compact)
 

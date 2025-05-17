@@ -6,7 +6,7 @@
 
 <p align="left">
   <a href="https://github.com/toma128/toma1128/">
-    <img src="https://komarev.com/ghpvc/?username=toma1128" alt="あなたのユーザー名" />
+    <img src="https://komarev.com/ghpvc/?username=toma1128" alt="toma1128" />
   </a>
   <a href="https://twitter.com/eccToma1128">
     <img height="20" src="https://img.shields.io/twitter/follow/eccToma1128?label=Twitter&logo=twitter&style=flat" />

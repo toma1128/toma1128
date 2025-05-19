@@ -4,7 +4,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,cpp,php,go,dart,linux,debian,ubuntu,mysql,docker,github,notion)](https://skillicons.dev)
 
+#### Organization Repositories
+
 <p align="left">
+  <a href="https://github.com/Doremifa-donuts/food-shuffle-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Doremifa-donuts&repo=food-shuffle-api&theme=vue" height="120px"></a>
+  <a href="https://github.com/hakyukawa/frist_chat_docker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hakyukawa&repo=frist_chat_docker&theme=vue" height="120px"></a>
+  <a href="https://github.com/hakyukawa/frist_chat_nodejs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hakyukawa&repo=frist_chat_nodejs&theme=vue" height="120px"></a>
 </p>
 
 <!-- 言語の割合 -->

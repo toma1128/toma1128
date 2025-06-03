@@ -13,9 +13,6 @@
   <a href="https://github.com/himatsumu/himatsumu_docker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=himatsumu&repo=himatsumu_docker&theme=vue" height="120px"></a>
 </p>
 
-<!-- 言語の割合 -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=toma1128&layout=compact)
-
 <!-- git_stats -->
 <p align="center">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toma1128&layout=compact&show_icons=true&theme=onedark" />
